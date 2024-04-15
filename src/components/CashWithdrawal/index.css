@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.main-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.cash-container {
+  background-color: #150b3e;
+  height: 80vh;
+  width: 60%;
+  border-radius: 15px;
+  padding: 50px;
+}
+.sara-container {
+  display: flex;
+  align-items: center;
+}
+.sara-para {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  font-size: 30px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+.sara-heading {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.balance-heading {
+  color: #585076;
+}
+.amount {
+  color: #d4d2db;
+  font-size: 50px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.amount-para {
+  color: #585076;
+}
+.amount-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.balance {
+  display: flex;
+  flex-wrap: wrap;
+}

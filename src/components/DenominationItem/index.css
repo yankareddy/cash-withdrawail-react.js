@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.button{
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: #d4d2db;
+    color: #d4d2db;
+    font-size: 30px;
+}
